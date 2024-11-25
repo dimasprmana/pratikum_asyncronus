@@ -1,4 +1,4 @@
-NAMA : DIMAS PERMANA
+![Screenshot 2024-11-25 091930](https://github.com/user-attachments/assets/d94e20ca-7b87-46eb-b5be-c9a9dce60830)NAMA : DIMAS PERMANA
 -
 KELAS : 2A TRPL
 -
@@ -21,17 +21,35 @@ Langkah 1 mendefinisikan tiga fungsi asinkron (returnOneAsync, returnTwoAsync, r
 -
 
 **Praktikum 3: Menggunakan Completer di Future**
-![pratikum 3](https://github.com/user-attachments/assets/bb3c2403-9a30-450b-8e4a-1c42beb8bab1)
+
+![Screenshot 2024-11-25 095109](https://github.com/user-attachments/assets/99f4b6ed-d536-4a1c-b13a-02af86bd9133)
 -
 
 ** Praktikum 4: Memanggil Future secara paralel**
 -
-![Screenshot 2024-11-25 095109](https://github.com/user-attachments/assets/fb55fdb7-bd71-4c52-9e2d-28f2ab1a070f)
+![Screenshot 2024-11-25 091930](https://github.com/user-attachments/assets/fdbe0e85-e3d7-4352-8e20-2d8c2ae7086d)
 -
 
 **Praktikum 5: Menangani Respon Error pada Async Code**
 ![Screenshot 2024-11-25 105110](https://github.com/user-attachments/assets/4d6b4b18-f702-483e-afe6-f2deb65c1b78)
 -
+
+**Praktikum 6: Menggunakan Future dengan StatefulWidget**
+-
+![Screenshot 2024-11-25 105110](https://github.com/user-attachments/assets/f60bef1b-aa3f-4f19-8feb-5fb679567bbe)
+-
+
+**Praktikum 7: Manajemen Future dengan FutureBuilder**
+![Screenshot 2024-11-25 105014](https://github.com/user-attachments/assets/8ac39dae-84ac-451d-9898-a1cb2f5eecc5)
+-
+
+**Praktikum 8: Navigation route dengan Future Function**
+![Screenshot 2024-11-25 111030](https://github.com/user-attachments/assets/beef6f26-2e09-4e75-bc63-2af5d0d4f401)
+-
+
+**Praktikum 9: Memanfaatkan async/await dengan Widget Dialog**
+-
+![Screenshot 2024-11-25 112348](https://github.com/user-attachments/assets/16dd384c-d866-4385-8872-30c401dd2508)
 
 
 
